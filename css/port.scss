@@ -1,0 +1,40 @@
+$b-colour:black;
+.bg-black
+{
+    background-color: $b-colour;
+}
+
+img
+{
+    width: 100%;
+    height: 100%;
+}
+.font-div
+{
+    width: 30%;
+}
+@media only screen and (min-width:1199px) 
+{
+    .font-div{
+        padding: 125px 0px!important;
+    }
+}
+// .dropdown-content {
+//     display: none;
+//     position: absolute;
+   
+//     min-width: 160px;
+ 
+//     z-index: 1;
+//   }
+  
+// .dropdown-content a {
+//     float: none;
+//     color: black;
+//     padding: 12px 16px;
+//     text-decoration: none;
+   
+//     text-align: left;
+//   }
+
+  
